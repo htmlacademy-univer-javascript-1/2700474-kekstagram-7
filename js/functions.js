@@ -16,3 +16,6 @@ const isOk = function (dayStart, dayEnd, meetStart, duration) {
 
   return true;
 };
+
+  return true;
+};
